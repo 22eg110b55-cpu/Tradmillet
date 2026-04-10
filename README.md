@@ -113,5 +113,3 @@ So configure persistent storage using:
 - `POST /api/orders` (customer checkout)
 - `GET /api/orders` (admin)
 - `PATCH /api/orders/[id]` (admin)
-
-
