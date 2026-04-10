@@ -1,0 +1,177 @@
+[
+  {
+    "id": "gym-power-millet-mix",
+    "name": "Gym Power Millet Mix",
+    "slug": "gym-power-millet-mix",
+    "category": "fitness",
+    "description": "High-protein millet blend for strength, recovery, and clean energy.",
+    "price": 199,
+    "rating": 4.7,
+    "image": "/uploads/1773319859194_grocery-bag.png.webp",
+    "ingredients": [
+      "Ragi (Finger Millet)",
+      "Foxtail Millet",
+      "Sprouted Moong",
+      "Almond",
+      "Cocoa"
+    ],
+    "stock": 497,
+    "nutritionFacts": {
+      "servingSize": "30g",
+      "calories": 120,
+      "protein": "8g",
+      "carbs": "16g",
+      "fiber": "4g",
+      "fat": "3g"
+    },
+    "benefits": [
+      "Supports muscle recovery",
+      "Sustained energy release",
+      "Gut-friendly fiber"
+    ],
+    "preparation": [
+      "Mix 2 tbsp in 200ml warm milk or water",
+      "Stir well and simmer for 2 minutes",
+      "Sweeten with honey if needed"
+    ],
+    "updatedAt": "2026-03-12T17:53:31.180Z"
+  },
+  {
+    "id": "kids-growth-millet-mix",
+    "name": "Kids Growth Millet Mix",
+    "slug": "kids-growth-millet-mix",
+    "category": "kids",
+    "description": "Tasty millet nutrition for growth, immunity, and daily strength.",
+    "price": 399,
+    "rating": 4.6,
+    "image": "/products/kids-growth-millet-mix.svg",
+    "ingredients": [
+      "Ragi (Finger Millet)",
+      "Jowar (Sorghum)",
+      "Dates",
+      "Cashew",
+      "Cardamom"
+    ],
+    "stock": 80,
+    "nutritionFacts": {
+      "servingSize": "30g",
+      "calories": 130,
+      "protein": "5g",
+      "carbs": "22g",
+      "fiber": "3g",
+      "fat": "2g"
+    },
+    "benefits": [
+      "Supports growth",
+      "Natural sweetness",
+      "Rich in calcium and iron"
+    ],
+    "preparation": [
+      "Mix 2 tbsp in warm milk",
+      "Cook on low flame for 2–3 minutes",
+      "Serve with banana slices"
+    ]
+  },
+  {
+    "id": "senior-health-millet-mix",
+    "name": "Senior Health Millet Mix",
+    "slug": "senior-health-millet-mix",
+    "category": "senior",
+    "description": "Easy-to-digest millet blend for heart health, bones, and vitality.",
+    "price": 449,
+    "rating": 4.8,
+    "image": "/products/senior-health-millet-mix.svg",
+    "ingredients": [
+      "Little Millet",
+      "Bajra (Pearl Millet)",
+      "Flaxseed",
+      "Dry Ginger",
+      "Moringa"
+    ],
+    "stock": 60,
+    "nutritionFacts": {
+      "servingSize": "30g",
+      "calories": 115,
+      "protein": "6g",
+      "carbs": "17g",
+      "fiber": "5g",
+      "fat": "3g"
+    },
+    "benefits": [
+      "Supports digestion",
+      "Helps maintain healthy sugar levels",
+      "Omega-3 from flaxseed"
+    ],
+    "preparation": [
+      "Mix 2 tbsp in warm water/milk",
+      "Stir and simmer 2 minutes",
+      "Drink warm"
+    ]
+  },
+  {
+    "id": "classic-peanut-butter-powder",
+    "name": "Classic Peanut Butter Powder",
+    "slug": "classic-peanut-butter-powder",
+    "category": "peanut",
+    "description": "Roasted peanut powder for smoothies, oats, and protein snacks.",
+    "price": 349,
+    "rating": 4.5,
+    "image": "/products/classic-peanut-butter-powder.svg",
+    "ingredients": [
+      "Roasted Peanuts"
+    ],
+    "stock": 120,
+    "nutritionFacts": {
+      "servingSize": "20g",
+      "calories": 95,
+      "protein": "8g",
+      "carbs": "4g",
+      "fiber": "2g",
+      "fat": "4g"
+    },
+    "benefits": [
+      "High protein",
+      "Great for smoothies",
+      "No added sugar"
+    ],
+    "preparation": [
+      "Mix 2 tbsp with water to make spread",
+      "Add to shakes or oatmeal",
+      "Use in baking"
+    ]
+  },
+  {
+    "id": "honey-peanut-butter-powder",
+    "name": "Honey Peanut Butter Powder",
+    "slug": "honey-peanut-butter-powder",
+    "category": "peanut",
+    "description": "A gentle honey-peanut blend loved by kids and perfect for breakfast.",
+    "price": 379,
+    "rating": 4.7,
+    "image": "/products/honey-peanut-butter-powder.svg",
+    "ingredients": [
+      "Roasted Peanuts",
+      "Honey Powder"
+    ],
+    "stock": 89,
+    "nutritionFacts": {
+      "servingSize": "20g",
+      "calories": 100,
+      "protein": "7g",
+      "carbs": "6g",
+      "fiber": "2g",
+      "fat": "4g"
+    },
+    "benefits": [
+      "Naturally sweet",
+      "Breakfast-friendly",
+      "Kid-approved taste"
+    ],
+    "preparation": [
+      "Stir into warm milk",
+      "Spread on toast after mixing with water",
+      "Blend into smoothies"
+    ],
+    "updatedAt": "2026-03-12T12:53:54.861Z"
+  }
+]

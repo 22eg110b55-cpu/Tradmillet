@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" rx="48" fill="#ffffff"/>
+  <circle cx="640" cy="170" r="90" fill="#F57C00" opacity="0.11"/>
+  <circle cx="160" cy="150" r="72" fill="#2E7D32" opacity="0.10"/>
+  <g>
+    <rect x="250" y="140" width="300" height="360" rx="36" fill="#FFF8E1" stroke="#000" stroke-opacity="0.07"/>
+    <rect x="290" y="190" width="220" height="48" rx="16" fill="#F57C00" opacity="0.16"/>
+    <rect x="290" y="258" width="220" height="20" rx="10" fill="#6D4C41" opacity="0.20"/>
+    <rect x="290" y="290" width="185" height="20" rx="10" fill="#2E7D32" opacity="0.12"/>
+    <rect x="290" y="332" width="220" height="110" rx="20" fill="#ffffff" stroke="#000" stroke-opacity="0.05"/>
+    <text x="400" y="382" font-size="30" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto" fill="#6D4C41" font-weight="800">
+      Honey Peanut
+    </text>
+    <text x="400" y="416" font-size="20" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto" fill="#2E7D32" font-weight="700">
+      Butter Powder
+    </text>
+  </g>
+  <g opacity="0.55">
+    <path d="M140 420c0-40 32-72 72-72 40 0 72 32 72 72 0 40-32 72-72 72-40 0-72-32-72-72Z" fill="#F57C00" opacity="0.25"/>
+    <path d="M170 420c0-22 18-40 40-40s40 18 40 40-18 40-40 40-40-18-40-40Z" fill="#6D4C41" opacity="0.20"/>
+  </g>
+</svg>
+
+
