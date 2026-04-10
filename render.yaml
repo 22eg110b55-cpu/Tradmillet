@@ -2,20 +2,16 @@ services:
   - type: web
     name: tradmillet-website
     runtime: docker
-    plan: starter
+    plan: free
     autoDeploy: true
     healthCheckPath: /
-    disk:
-      name: tradmillet-disk
-      mountPath: /var/data/tradmillet
-      sizeGB: 1
     envVars:
       - key: NODE_ENV
         value: production
       - key: DATA_DIR
-        value: /var/data/tradmillet/data
+        value: /tmp/tradmillet/data
       - key: UPLOAD_DIR
-        value: /var/data/tradmillet/uploads
+        value: /tmp/tradmillet/uploads
       - key: ADMIN_EMAIL
         sync: false
       - key: ADMIN_PASSWORD
