@@ -5,6 +5,10 @@ services:
     plan: starter
     autoDeploy: true
     healthCheckPath: /
+    disk:
+      name: tradmillet-disk
+      mountPath: /var/data/tradmillet
+      sizeGB: 1
     envVars:
       - key: NODE_ENV
         value: production
@@ -40,7 +44,3 @@ services:
         sync: false
       - key: SMTP_FROM
         sync: false
-disks:
-  - name: tradmillet-disk
-    mountPath: /var/data/tradmillet
-    sizeGB: 1
